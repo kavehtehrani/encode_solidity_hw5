@@ -23,7 +23,7 @@ const config: HardhatUserConfig = {
   solidity: {
     compilers: [
       {
-        version: "0.8.20",
+        version: "0.8.24",
         settings: {
           optimizer: {
             enabled: true,
@@ -37,7 +37,6 @@ const config: HardhatUserConfig = {
   defaultNetwork: "localhost",
   namedAccounts: {
     deployer: {
-      // By default, it will take the first Hardhat account as the deployer
       default: 0,
     },
   },

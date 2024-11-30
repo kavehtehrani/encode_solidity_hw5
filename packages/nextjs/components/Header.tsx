@@ -19,7 +19,14 @@ export const menuLinks: HeaderMenuLink[] = [
     label: "Home",
     href: "/",
   },
-
+  {
+    label: "Lottery",
+    href: "/lottery",
+  },
+  {
+    label: "Owner Dashboard",
+    href: "/owner",
+  },
   {
     label: "Debug Contracts",
     href: "/debug",
@@ -63,6 +70,26 @@ export const Header = () => {
     burgerMenuRef,
     useCallback(() => setIsDrawerOpen(false), []),
   );
+
+  // const navLinks = (
+  //   <>
+  //     <li>
+  //       <Link href="/" className="menu-item">
+  //         Home
+  //       </Link>
+  //     </li>
+  //     <li>
+  //       <Link href="/lottery" className="menu-item">
+  //         Lottery
+  //       </Link>
+  //     </li>
+  //     <li>
+  //       <Link href="/debug" className="menu-item">
+  //         Debug Contracts
+  //       </Link>
+  //     </li>
+  //   </>
+  // );
 
   return (
     <div className="sticky lg:static top-0 navbar bg-base-100 min-h-0 flex-shrink-0 justify-between z-20 shadow-md shadow-secondary px-0 sm:px-2">
