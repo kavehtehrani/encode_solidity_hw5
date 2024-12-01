@@ -24,7 +24,7 @@ const Home: NextPage = () => {
             </div>
             <div className="flex flex-col bg-base-100 px-10 py-10 text-center items-center max-w-xs rounded-3xl">
               <TicketIcon className="h-8 w-8 fill-secondary" />
-              <p className="mt-2 font-bold">Place Bets</p>
+              <p className="mt-2 font-bold">Plafce Bets</p>
               <p className="mt-1">Use your tokens to place bets and join the lottery</p>
             </div>
             <div className="flex flex-col bg-base-100 px-10 py-10 text-center items-center max-w-xs rounded-3xl">
