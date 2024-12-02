@@ -19,12 +19,12 @@
 * I have used Scaffold ETH 2 as the framework of choice.
 * Landing page is at `/`\
 * Lottery owner page is at `/owner`\ and locked unless signed in as the owner\
-* Lottery page for userrs is at `/lottery`\ with all features implemented
+* Lottery page for users is at `/lottery`\ with all features implemented
 * Have reorganized the smart contracts a bit:
   * Made a new function `areBetsOpen` that makes the function modifiers consistent with the variable naming as discussed [here](https://github.com/Encode-Club-Solidity-Bootcamp/Lesson-20/issues/29).
 
 
 
 ## Addresses on Sepolia
-Lottery Token:
-Lottery: 
+Lottery Token: 
+Lottery: https://sepolia.etherscan.io/address/0x7e14c73ec4326a7f3ee934f9c859526312d82b5c

@@ -24,7 +24,7 @@ export const menuLinks: HeaderMenuLink[] = [
     href: "/lottery",
   },
   {
-    label: "Owner Dashboard",
+    label: "Owner",
     href: "/owner",
   },
   {
