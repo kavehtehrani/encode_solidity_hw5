@@ -23,8 +23,10 @@
 * Have reorganized the smart contracts a bit:
   * Made a new function `areBetsOpen` that makes the function modifiers consistent with the variable naming as discussed [here](https://github.com/Encode-Club-Solidity-Bootcamp/Lesson-20/issues/29).
 
+![frontend](./images/ss1.png)
+![frontend](./images/ss2.png)
 
 
 ## Addresses on Sepolia
-Lottery Token: 
+Lottery Token: https://sepolia.etherscan.io/address/0x84efEAdc1c71FFAB9Cc243a478bB53e43D29C308
 Lottery: https://sepolia.etherscan.io/address/0x7e14c73ec4326a7f3ee934f9c859526312d82b5c
