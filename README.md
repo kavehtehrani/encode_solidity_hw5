@@ -26,6 +26,7 @@
 ![frontend](./images/ss1.png)
 ![frontend](./images/ss2.png)
 
+Voting still has an issue and is a work in progress.
 
 ## Addresses on Sepolia
 Lottery Token: https://sepolia.etherscan.io/address/0x84efEAdc1c71FFAB9Cc243a478bB53e43D29C308
